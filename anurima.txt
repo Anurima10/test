@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vik g
+=======
+vik g
+>>>>>>> 2ae21a8d5c07c9cf451bed55f292adae8cdda546
